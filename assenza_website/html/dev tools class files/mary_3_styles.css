@@ -1,0 +1,51 @@
+ body {
+ 	color: #999933;
+ 	background-color:#8B0000;
+
+ 	font-family: Arial, Helvetica, sans-serif; 
+ 	font-size: 25px;
+ 	text-align: center; 
+ }
+
+ img{
+ 	width:200px;
+ 	position: absolute;
+ 	left: 100px;
+ 	bottom:100px;
+ 	z-index: 2;
+ }
+
+ .summary{
+ 	color:#000000;
+ 	text-align: left; 
+ 	font-size: 18px;
+ }
+
+ .header_two{
+ 	colour:#cc6666;
+ 	text-align: left;
+ 	font-size: 16px;
+ }
+
+ #special {
+ 	font-style: italic;
+ }
+
+ h1 {
+ 	color: #000000
+ 	border: 2px solid black;
+ 	position: absolute;
+ 	z-index: 7
+ }
+
+ p span {
+ 	colour:#cc3366; 
+ 	font-weight: bold; 
+ }
+
+ div.topLeft {
+
+ 	border: 5px solid green;
+ 	padding: 20px 100px 1px;
+ }
+

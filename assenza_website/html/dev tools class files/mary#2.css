@@ -1,0 +1,28 @@
+ body {
+ 	color: #999933;
+ 	background-color:#8B0000;
+
+ 	font-family: Arial, Helvetica, sans-serif; 
+ 	font-size: 25px;
+ 	text-align: center; 
+ }
+
+ img{
+ 	width:200px;
+ }
+
+ .summary{
+ 	color:#000000;
+ 	text-align: left; 
+ 	font-size: 18px;
+ }
+
+ .header_two{
+ 	colour:#cc6666;
+ 	text-align: left;
+ 	font-size: 16px;
+ }
+
+ #special {
+ 	font-style: italic;
+ }
