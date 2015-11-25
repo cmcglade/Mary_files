@@ -1,0 +1,13 @@
+
+h3 {
+    text-align: center; 
+    text-decoration: underline; 
+
+}
+
+p {
+    color:blue;
+    outline:dotted line;
+    padding:20px;
+}
+
